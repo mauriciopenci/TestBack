@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div
+{
+    background-color: #1f69b9;
+}
+#headerMovil{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+@media (max-width: 577px){
+    #headerMovil{
+        align-items: center;
+
+    }
+}

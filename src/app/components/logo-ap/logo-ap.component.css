@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#logoAP{
+width: 13rem;
+margin-left: 0.2rem;
+}
+@media (max-width: 577px){
+    #logoAP{
+        margin-left: 0;
+        width: 6rem;
+       
+       
+    }
+}
