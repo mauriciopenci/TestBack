@@ -7,11 +7,18 @@
     text-align: center;
     align-items: center;
     color: white;
+    margin: 2rem 2rem;
+
 }
 img{
-   width: 100%;
-    height:auto;
+   width: 250px;
+    height:200px;
+    border-radius: 50%;
+    
 }
 #nombre{
     font-weight: bold;
+}
+.name{
+    width: 400px;
 }

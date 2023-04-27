@@ -2,12 +2,22 @@
     padding: 0;
     margin: 0;
 
+
 }
 html body{
     margin: 0;
     padding: 0;
-    background-image: url(../src/assets/fondo.jpg);
+    background-image: url(../src/assets/fondo2.png);
     background-size: 100% 100%;
-    background-attachment: fixed;
+    background-attachment:fixed;
+    
 }
-
+h1,h2,h3,p{
+    color:black;
+}
+h1,h2,h3{
+    font-family: 'Quattrocento', serif;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+}
