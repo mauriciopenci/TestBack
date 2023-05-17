@@ -55,5 +55,6 @@ public class JwtTokenFilter extends OncePerRequestFilter {
         if(header != null && header.startsWith("Bearer"))
             return header.replace("Bearer", "");
         return null;
+        
     }
 }
