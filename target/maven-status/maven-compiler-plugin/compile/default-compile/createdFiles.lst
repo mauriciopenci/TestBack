@@ -21,7 +21,6 @@ com\portfolio\mep\Security\Entity\UsuarioPrincipal.class
 com\portfolio\mep\Controller\CEducacion.class
 com\portfolio\mep\Security\Service\RolService.class
 com\portfolio\mep\Security\Dto\LoginUsuario.class
-com\portfolio\mep\Security\Service\UserDetailsImp.class
 com\portfolio\mep\MepApplication.class
 com\portfolio\mep\Security\Dto\NuevoUsuario.class
 com\portfolio\mep\Service\ImpPersonaService.class
@@ -30,6 +29,7 @@ com\portfolio\mep\Dto\dtoPersona.class
 com\portfolio\mep\Security\Repository\iUsuarioRepository.class
 com\portfolio\mep\Entity\Persona.class
 com\portfolio\mep\Repository\RExperiencia.class
+com\portfolio\mep\Security\Service\UserDetailsImpl.class
 com\portfolio\mep\Service\SExperiencia.class
 com\portfolio\mep\Interface\IPersonaService.class
 com\portfolio\mep\Security\Controller\Mensaje.class

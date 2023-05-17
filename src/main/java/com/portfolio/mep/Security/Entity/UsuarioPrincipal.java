@@ -7,6 +7,8 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+
+
 public class UsuarioPrincipal implements UserDetails {
 
     private String nombre;
@@ -14,8 +16,8 @@ public class UsuarioPrincipal implements UserDetails {
     private String email;
     private String password;
     private Collection<? extends GrantedAuthority> authorities;
-    //Constructor
 
+    //Constructor
     public UsuarioPrincipal(String nombre, String nombreUsuario, String email, String password, Collection<? extends GrantedAuthority> authorities) {
         this.nombre = nombre;
         this.nombreUsuario = nombreUsuario;
@@ -73,7 +75,6 @@ public class UsuarioPrincipal implements UserDetails {
     @Override
     public boolean isEnabled() {
         return true;
-
     }
 
 }

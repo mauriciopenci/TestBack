@@ -5,7 +5,7 @@
  */
 package com.portfolio.mep.Security;
 
-import com.portfolio.mep.Security.Service.UserDetailsImp;
+import com.portfolio.mep.Security.Service.UserDetailsImpl;
 import com.portfolio.mep.Security.jwt.JwtEntryPoint;
 import com.portfolio.mep.Security.jwt.JwtTokenFilter;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,7 +27,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 @EnableGlobalMethodSecurity(prePostEnabled = true)
 public class MainSecurity extends WebSecurityConfigurerAdapter{
     @Autowired
-    UserDetailsImp userDetailsServicesImpl;
+    UserDetailsImpl userDetailsServicesImpl;
     
     @Autowired
     JwtEntryPoint jwtEntryPoint;

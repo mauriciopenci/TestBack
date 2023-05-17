@@ -4,6 +4,7 @@ C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Repository\RExperiencia.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Security\Entity\Rol.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Service\SExperiencia.java
+C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Security\Service\UserDetailsImpl.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Entity\Persona.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Service\Seducacion.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Repository\REducacion.java
@@ -12,7 +13,6 @@ C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Service\ImpPersonaService.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Controller\CEducacion.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Security\MainSecurity.java
-C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Security\Service\UserDetailsImp.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Security\Dto\LoginUsuario.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Security\Service\RolService.java
 C:\Users\mauri\OneDrive\Documentos\GitHub\ProyIntegrador_PenciMauricio\TestBack\src\main\java\com\portfolio\mep\Security\Dto\JwtDto.java
