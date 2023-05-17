@@ -26,6 +26,7 @@ com\portfolio\mep\MepApplication.class
 com\portfolio\mep\Security\Dto\NuevoUsuario.class
 com\portfolio\mep\Service\ImpPersonaService.class
 com\portfolio\mep\Dto\dtoExperiencia.class
+com\portfolio\mep\Dto\dtoPersona.class
 com\portfolio\mep\Security\Repository\iUsuarioRepository.class
 com\portfolio\mep\Entity\Persona.class
 com\portfolio\mep\Repository\RExperiencia.class
