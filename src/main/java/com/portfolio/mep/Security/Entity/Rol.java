@@ -11,8 +11,6 @@ import javax.persistence.Id;
 import javax.validation.constraints.NotNull;
 
 
-
-
 @Entity
 public class Rol {
     @Id

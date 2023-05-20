@@ -17,8 +17,6 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.validation.constraints.NotNull;
 
-
-
 @Entity
 public class Usuario {
     @Id
