@@ -1,6 +1,9 @@
 com\portfolio\mep\Security\Controller\AuthController.class
 com\portfolio\mep\Security\Entity\Rol.class
+com\portfolio\mep\Service\SProyecto.class
+com\portfolio\mep\Entity\Proyecto.class
 com\portfolio\mep\Security\Dto\JwtDto.class
+com\portfolio\mep\Dto\dtoProyecto.class
 com\portfolio\mep\Security\jwt\JwtEntryPoint.class
 com\portfolio\mep\Security\Service\UsuarioService.class
 com\portfolio\mep\Service\Seducacion.class
@@ -33,7 +36,9 @@ com\portfolio\mep\Dto\dtoPersona.class
 com\portfolio\mep\Security\Repository\iUsuarioRepository.class
 com\portfolio\mep\Entity\Persona.class
 com\portfolio\mep\Repository\RExperiencia.class
+com\portfolio\mep\Controller\CProyecto.class
 com\portfolio\mep\Dto\dtoHys.class
 com\portfolio\mep\Security\Service\UserDetailsImpl.class
 com\portfolio\mep\Service\SExperiencia.class
+com\portfolio\mep\Repository\RProyecto.class
 com\portfolio\mep\Security\Controller\Mensaje.class
